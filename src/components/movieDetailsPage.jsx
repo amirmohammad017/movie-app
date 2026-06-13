@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
 
-import BackButton from "./movie-details/TempButton";
+import BackButton from "./movie-details/BackButton";
 import MoviePoster from "./movie-details/MoviePoster";
 import MovieHeader from "./movie-details/MovieHeader";
 import GenreList from "./movie-details/GenreList";
